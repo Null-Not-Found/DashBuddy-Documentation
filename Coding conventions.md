@@ -26,7 +26,7 @@ Use camel casing when naming **variables**.
 
 ```cs
 string newVariable = "text";
-int anothervariable = 3;
+int anotherVariable = 3;
 ```
 ***
 
@@ -37,13 +37,13 @@ public void NewMethod(_methodParamater);
 ```
 ***
 
-## Snake\_Casing
+## CAPITAL_SNAKE_CASING
 
 For **constant variables** use snake casing with al capital letters.
 
 ```cs
-const string newConstant = "text";
-const int anotherConstant = 3;
+const string NEW_CONSTANT = "text";
+const int ANOTHER_CONSTANT = 3;
 ```
 ***
 
