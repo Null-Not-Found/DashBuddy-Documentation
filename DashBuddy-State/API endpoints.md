@@ -1,4 +1,4 @@
-# DashBuddy-State API Endpoints
+# DashBuddy-State API endpoints
 <table>
   <tr>
     <th>Endpoint</th>
