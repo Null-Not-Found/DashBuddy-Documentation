@@ -9,7 +9,7 @@ Nest.js has a modular architecture, which makes it easy to reuse code and build 
 Nest.js can be more complex to learn than Node.js, especially for developers who are new to TypeScript or the Nest.js framework.
 Nest.js may not be the best choice for small projects or prototypes, as its structure and conventions can add overhead and complexity.
 
-### Comparison:
+### Comparison to Node.js:
 
 Node.js is a more lightweight and flexible framework that can be used for a wide range of applications, from small scripts to large-scale web applications.
 Nest.js is a more structured and opinionated framework that provides a modular architecture and strong typing for building scalable and maintainable applications.
