@@ -25,3 +25,7 @@ By incorporating stakeholders' real-life scenarios, use cases, and specific exam
 ![wire frame](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/widget%20creator%20wire%20frame.png)
 
 *wirte frame for making the widget creator based on the screenshots above*
+
+## Design during the back-end developement
+
+-- PLACE BACK END DESIGN STUFF HERE -- 
