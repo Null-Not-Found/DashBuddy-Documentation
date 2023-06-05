@@ -31,5 +31,3 @@ Furthermore, we implemented two review columns in Jira to ensure the quality and
 
 *Our Jira board during our 4th sprint*
 
-## 
-***
