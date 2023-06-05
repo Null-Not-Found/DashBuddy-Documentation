@@ -51,7 +51,12 @@ $ npm run start
 
 ----------------
 ### Data microservice
-<h2 style="color: red">Disclaimer! W.I.P, use Seed branch</h2>
+
+<h2 style="color:red">
+    
+    Disclaimer! W.I.P, use Seed branch
+    
+</h2>
 
 Requirments
 - The DNS is running
