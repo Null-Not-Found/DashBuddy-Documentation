@@ -67,7 +67,7 @@ To startup the DNS run the following commands:
 # install all packages
 $ npm install
 
-# then fill with test data
+# then fill database
 $ npm run seed
 
 # then build and start app
