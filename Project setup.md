@@ -15,7 +15,7 @@ Requirments
 - none
 
 To startup the DNS run the following commands:
-```cs
+```sql
 # install all packages
 $ npm install
 
@@ -29,7 +29,7 @@ Requirment
 - The DNS is running.
 - Have a MongoDB database running with a collection named "dashboards"
 - Make sure to add environment variables file (.env) in the root of the project with the following properties:
-```cs
+```sql
 # url of the Mongo database
 DATABASE_URL="mongodb://localhost:4000/DashBuddy-State"
 # port where this app will be accessable
@@ -38,7 +38,7 @@ PORT=5000
 DNS="http://127.0.0.1:3001/register"
 ```
 Then run the following commands:
-```cs
+```sql
 # install all packages
 $ npm install
 
@@ -63,11 +63,11 @@ Requirments
 - A Mongo Database with the following url "mongodb://localhost:4001/DashBuddy"
 
 To startup the DNS run the following commands:
-```cs
+```sql
 # install all packages
 $ npm install
 
-# then fill database
+# then fill database with test data
 $ npm run seed
 
 # then build and start app
@@ -81,7 +81,7 @@ Requirments
 - Microservices are running
 
 To startup the gatewat run the following commands:
-```cs
+```sql
 # install all packages
 $ npm install
 
