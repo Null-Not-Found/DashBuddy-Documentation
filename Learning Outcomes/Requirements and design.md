@@ -3,13 +3,13 @@
 *You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.*
 
 ## Gathering Stakeholder Feedback and Creating User Stories and Tasks
-
+***
 In order to achieve the learning outcome requirements and design, we followed a systematic approach that involved active engagement with stakeholders throughout the entire process. We recognized the importance of gathering feedback from stakeholders to inform our decisions and ensure the application met their needs effectively.
 
 To begin, we utilized the feedback from stakeholders to create user stories and tasks. These user stories helped us understand the specific goals and requirements of the application from the perspective of different user roles. By breaking down the functionalities into smaller, manageable tasks, we were able to align our design and development efforts more efficiently.
 
 ## Design during front-end developement
-
+***
 During the front-end development phase, we embraced a collaborative approach that involved active engagement with stakeholders. In addition to gathering feedback, we also encouraged stakeholders to provide examples that illustrated their preferences and requirements.
 
 To initiate the design process, we conducted brainstorming sessions where we generated various ideas. These ideas were translated into visual representations by extensively utilizing whiteboards. Through sketches and diagrams, we visualized the initial design concepts and shared them with stakeholders. We actively sought their feedback and incorporated their suggestions into the design iterations.
@@ -27,5 +27,5 @@ By incorporating stakeholders' real-life scenarios, use cases, and specific exam
 *wirte frame for making the widget creator based on the screenshots above*
 
 ## Design during the back-end developement
-
+***
 -- PLACE BACK END DESIGN STUFF HERE -- 
