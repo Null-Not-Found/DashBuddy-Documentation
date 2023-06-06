@@ -20,11 +20,11 @@ By incorporating stakeholders' real-life scenarios, use cases, and specific exam
 
 ![example widget creater](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Example%20Widget%20creator.png)
 
-*from [zoho analytics](https://www.zoho.com/analytics/video-demo.html) with notes from the front-end team*
+*Design from [zoho analytics](https://www.zoho.com/analytics/video-demo.html) with notes from the front-end team*
 
 ![wire frame](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/widget%20creator%20wire%20frame.png)
 
-*wirte frame for making the widget creator based on the screenshots above*
+*Wire frame for making the widget creator based on the screenshots above*
 
 ## Design during the back-end developement
 ***
