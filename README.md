@@ -1,4 +1,8 @@
 # DashBuddy-Documentation
+
+<img src="https://media1.giphy.com/media/26xBIygOcC3bAWg3S/giphy.gif?cid=ecf05e478pgar2ubr3hv8iicjy8g833xa8hoclugn9txl48l&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Broke :(" width="50%" height="50%" />
+
+
 ## contents
 - [How to start up the project](#how-to-start-up-the-project)
 - [Code conventions](#code-conventions)
