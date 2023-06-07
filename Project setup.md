@@ -11,7 +11,7 @@ In the file i will guide you on how to localy run the programs.
 ## Startup order
 ----------------
 ## DNS 
-Requirments
+Requirements
 - none
 
 To startup the DNS run the following commands:
@@ -25,7 +25,7 @@ $ npm run start
 
 ----------------
 ## State microservice
-Requirment
+Requirements
 - The DNS is running.
 - Have a MongoDB database running with a collection named "dashboards"
 - Make sure to add environment variables file (.env) in the root of the project with the following properties:
@@ -58,7 +58,7 @@ $ npm run start
     
 </h2>
 
-Requirments
+Requirements
 - The DNS is running
 - A Mongo Database with the following url "mongodb://localhost:4001/DashBuddy"
 
@@ -76,7 +76,7 @@ $ npm run start
 
 ----------------
 ### Gateway
-Requirments
+Requirements
 - The DNS is running
 - Microservices are running
 
