@@ -1,6 +1,6 @@
 # Project setup
 
-In the file i will guide you on how to localy run the programs.
+In this file, I will guide you on how to locally run the programs.
 
 ## contents
 - [Startup order](#startup-order)
@@ -14,12 +14,12 @@ In the file i will guide you on how to localy run the programs.
 Requirements
 - none
 
-To startup the DNS run the following commands:
+To start up the DNS run the following commands:
 ```sql
 # install all packages
 $ npm install
 
-# then build and start app
+# Then build and start the app
 $ npm run start
 ```
 
@@ -32,7 +32,7 @@ Requirements
 ```sql
 # url of the Mongo database
 DATABASE_URL="mongodb://localhost:4000/DashBuddy-State"
-# port where this app will be accessable
+# port where this app will be accessible
 PORT=5000
 # url of the DNS
 DNS="http://127.0.0.1:3001/register"
@@ -42,35 +42,29 @@ Then run the following commands:
 # install all packages
 $ npm install
 
-# then create build
+# then create a build
 $ npm run build
 
-# then start app
+# then start the app
 $ npm run start
 ```
 
 ----------------
 ### Data microservice
 
-<h2 style="color:red">
-    
-    Disclaimer! W.I.P, use Seed branch
-    
-</h2>
-
 Requirements
 - The DNS is running
-- A Mongo Database with the following url "mongodb://localhost:4001/DashBuddy"
+- A Mongo Database with the following URL "mongodb://localhost:4001/DashBuddy"
 
-To startup the DNS run the following commands:
+To start up the DNS run the following commands:
 ```sql
 # install all packages
 $ npm install
 
-# then fill database with test data
+# then fill the database with test data
 $ npm run seed
 
-# then build and start app
+# then build and start the app
 $ npm run start
 ```
 
@@ -80,11 +74,11 @@ Requirements
 - The DNS is running
 - Microservices are running
 
-To startup the gatewat run the following commands:
+To start up the gateway run the following commands:
 ```sql
 # install all packages
 $ npm install
 
-# then start app
+# then start the app
 $ npm run start
 ```
