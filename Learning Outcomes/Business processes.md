@@ -2,6 +2,8 @@
 ***
 *You analyze and describe simple business processes that are related to your project.*
 
+![image](https://github.com/Null-Not-Found/DashBuddy-Documentation/assets/95694367/a357ae0d-9284-46f0-8f1a-b13893752379)
+
 ## Requirements & Design
 ***
 To begin our web application project for World of Content, we engaged with the stakeholders and gathered their feedback and input. Based on this information, we created user stories and tasks that outlined the functionalities and features required for the application. We also developed multiple designs to visualize and iterate on the project's visual aspects. The detailed designs can be found [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Requirements%20and%20design.md).
