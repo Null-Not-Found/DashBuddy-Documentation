@@ -12,6 +12,4 @@
   - server.ts //The main file
 - Tests //Tests folder
 ```
-When making this I decided to use a DAL and interfaces but it is overkill. 
-Besides, the ORM IS the data access layer so it shouldn't even be here.
-
+During the development process, I initially opted to incorporate a Data Access Layer (DAL) and interfaces. However, upon further consideration, I realized that it was unnecessary and excessive for our requirements. Additionally, the ODM itself functions as the data access layer, rendering the inclusion of a separate DAL redundant.
