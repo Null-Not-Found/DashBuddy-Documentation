@@ -6,8 +6,10 @@
 
 ## User Interface
 
-## Navigation Structure
+## Component Design
 
 ## Layout
 
-## Component Design
+## Navigation Structure
+
+
