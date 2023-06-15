@@ -10,3 +10,14 @@ We made the decision to utilize MongoDB as our database of choice, opting for a 
 
 ## ODM
 Due to our utilization of a Non-SQL database, we opted for an Object Data Manager (ODM) instead of an Object-Relational Mapping (ORM). The distinction lies in the fact that an ORM is employed for relational databases like SQL, while an ODM caters to document databases such as MongoDB. Initially, we attempted to use Prisma, an ORM for Node.js, but discovered that it didn't integrate smoothly with MongoDB. After conducting a brief search, we came across Mongoose, which is an ODM specifically designed for MongoDB. It proved to be an ideal choice for our needs!
+
+### File structure
+```c#
+- src
+  - DAl //The layer that connects to Mongoose ODM
+  - DAl Interfaces //interface layer for the DAl
+  - Models //Model/schemas for Mongoose 
+  - server.ts //The main file
+- Tests //Tests folder
+```
+During the development process, I initially opted to incorporate a Data Access Layer (DAL) and interfaces. However, upon further consideration, I realized that it was unnecessary and excessive for our requirements. Additionally, the ODM itself functions as the data access layer, rendering the inclusion of a separate DAL redundant.
