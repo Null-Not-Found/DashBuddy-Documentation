@@ -27,10 +27,6 @@ The **Query Creator** section empowers users to build and customize their widget
 
 The **Widget Preview** provides users with a live preview of their widgets, allowing them to visualize the appearance and behavior of the widgets they are creating. While the preview does not utilize real-time data, it simulates the expected output based on the set data. This approach eliminates the need for the backend to retrieve large amounts of data every time the widget is altered, resulting in a more efficient and responsive experience for users.
 
-## Component Design
-
-## Layout
-
-## Navigation Structure
+## Code Structure
 
 
