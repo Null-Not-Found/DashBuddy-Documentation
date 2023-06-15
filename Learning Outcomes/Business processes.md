@@ -2,7 +2,8 @@
 ***
 *You analyze and describe simple business processes that are related to your project.*
 
-![image](https://github.com/Null-Not-Found/DashBuddy-Documentation/assets/95694367/a357ae0d-9284-46f0-8f1a-b13893752379)
+![image](https://github.com/Null-Not-Found/DashBuddy-Documentation/assets/39733159/06125e04-ff99-4d8f-9871-2be66f47e5ef)
+
 
 ## Requirements & Design
 ***
