@@ -6,8 +6,8 @@
 ## Contents
 
 - [How to start up the project](#how-to-start-up-the-project)
+- [Endpoints](#state-endpoints)
 - [Design choices](#design-choices)
-- [State endpoints](#state-endpoints)
 - [Learning outcomes](#learning-outcomes)
 - [Research](#research)
 - [Code conventions](#code-conventions)
@@ -17,13 +17,13 @@
 A guide for the start order of the project.
 See [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Project%20setup.md)
 
+## Endpoints
+Temporary file on the structure of the State microservice endpoints. 
+- [State endpoints](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-State/API%20endpoints.md)
+
 ## Design choices
 The choises we made when designing and working on the project.
 - [Front-end](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoises/Front-end)
-
-## State endpoints
-Temporary file on the structure of the State microservice endpoints. 
-See [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-State/API%20endpoints.md)
 
 ## Learning outcomes
 A folder with all the learning outcomes regarding the group project.
