@@ -35,8 +35,6 @@ However, during the implementation phase, we encountered challenges primarily du
 
 In order to maintain our development timeline and ensure a stable solution, we made the decision to temporarily set aside the draggable feature. While it would have enhanced the user experience by making the process of choosing models more interactive, we prioritized delivering a reliable and efficient widget creator.
 
-
-
 ## Component Design
 
 ## Layout
