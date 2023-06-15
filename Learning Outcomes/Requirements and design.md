@@ -6,13 +6,12 @@
 ***
 In order to achieve the learning outcome requirements and design, we followed a systematic approach that involved active engagement with stakeholders throughout the entire process. We recognized the importance of gathering feedback from stakeholders to inform our decisions and ensure the application met their needs effectively.
 
+To begin, we utilized the feedback from stakeholders to create user stories and tasks. These user stories helped us understand the specific goals and requirements of the application from the perspective of different user roles. By breaking down the functionalities into smaller, manageable tasks, we were able to align our design and development efforts more efficiently.
+
 ## Structure Diagram
 Displayed below is the current structure of the application. The image illustrates the communication flow between the front-end and all the services within the application.
 
 ![image](https://github.com/Null-Not-Found/DashBuddy-Documentation/assets/81526735/6af3e65c-7dcd-4615-b084-3cb2ceb4690d)
-
-
-To begin, we utilized the feedback from stakeholders to create user stories and tasks. These user stories helped us understand the specific goals and requirements of the application from the perspective of different user roles. By breaking down the functionalities into smaller, manageable tasks, we were able to align our design and development efforts more efficiently.
 
 ## Design during front-end developement
 ***
