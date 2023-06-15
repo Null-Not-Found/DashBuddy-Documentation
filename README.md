@@ -27,7 +27,7 @@ The choises we made when designing and working on the project.
 
 ## Learning outcomes
 A folder with all the learning outcomes regarding the group project.
-See [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/tree/main/Learning%20OutcomesStrat.md)
+See [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/tree/main/Learning%20Outcomes)
 
 ## Research
 A folder with a couple of files with research on NestJS, Apollo and GraphQL
