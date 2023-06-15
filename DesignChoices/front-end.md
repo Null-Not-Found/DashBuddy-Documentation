@@ -27,6 +27,20 @@ The **Query Creator** section empowers users to build and customize their widget
 
 The **Widget Preview** provides users with a live preview of their widgets, allowing them to visualize the appearance and behavior of the widgets they are creating. While the preview does not utilize real-time data, it simulates the expected output based on the set data. This approach eliminates the need for the backend to retrieve large amounts of data every time the widget is altered, resulting in a more efficient and responsive experience for users.
 
-## Code Structure
+Initially, we had planned to implement draggable functionality for the models listed in the Model Explorer section, as we believed it would enhance the interactive and intuitive nature of selecting models. Our intention was to allow users to simply drag and drop models from the Model Explorer directly into the Query Creator area, facilitating a seamless integration process for their widgets.
+
+![draggable models](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Draggable%20models%20.png)
+
+However, during the implementation phase, we encountered challenges primarily due to the limited documentation and resources available specifically for Vue 3 Composition API in combination with drag and drop libraries like Vue Draggable. Despite our best efforts to find solutions and workarounds, we were unable to achieve the desired draggable functionality within the Vue 3 Composition API framework.
+
+In order to maintain our development timeline and ensure a stable solution, we made the decision to temporarily set aside the draggable feature. While it would have enhanced the user experience by making the process of choosing models more interactive, we prioritized delivering a reliable and efficient widget creator.
+
+
+
+## Component Design
+
+## Layout
+
+## Navigation Structure
 
 
