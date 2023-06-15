@@ -23,7 +23,7 @@ Temporary file on the structure of the State microservice endpoints.
 
 ## Design choices
 The choises we made when designing and working on the project.
-- [Front-end](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoises/Front-end)
+- [Front-end](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/Front-end)
 
 ## Learning outcomes
 A folder with all the learning outcomes regarding the group project.
