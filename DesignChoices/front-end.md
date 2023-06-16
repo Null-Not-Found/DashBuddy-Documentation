@@ -2,6 +2,8 @@
 # Front-end design choises
 ***
 
+This document primarily focuses on the design choices we made for the widget creator, as it was our main focus during the limited time we worked with World of Content. The widget creator is an essential component of the front-end project, allowing users to create customized widgets using models.
+
 ## Framework
 ***
 
@@ -27,6 +29,10 @@ The **Query Creator** section empowers users to build and customize their widget
 
 The **Widget Preview** provides users with a live preview of their widgets, allowing them to visualize the appearance and behavior of the widgets they are creating. 
 
+We decided to use split panes to divide the three main components of the widget creator. This design element allows users to adjust the size and visibility of each component according to their preferences and the task at hand. By expanding or shrinking the panes, users can focus their attention on the specific part of the widget creator they are currently working on.
+
+### More about the **model explorer**
+***
 Initially, we had planned to implement draggable functionality for the models listed in the **Model Explorer** section, as we believed it would enhance the interactive and intuitive nature of selecting models. Our intention was to allow users to simply drag and drop models from the Model Explorer directly into the Query Creator area, facilitating a seamless integration process for their widgets.
 
 We also planned a search bar at the top of the **model explorer**. This search functionality would allow users to easily and rapidly locate specific models by typing relevant keywords or terms, simplifying the process of finding the desired models for their widgets.
@@ -37,6 +43,8 @@ However, during the implementation phase, we encountered challenges primarily du
 
 In order to maintain our development timeline and ensure a stable solution, we made the decision to temporarily set aside the draggable feature. While it would have enhanced the user experience by making the process of choosing models more interactive, we prioritized delivering a reliable and efficient widget creator.
 
+### More about the **Query Creator**
+***
 In the **Query Creator** section, we designed the interface with inspiration from Zoho Analytics, aiming to provide users with a seamless and intuitive experience. The Query Creator is structured from top to bottom, guiding users through the widget creation process.
 
 At the top of the Query Creator, users can enter the name of the widget, allowing them to easily identify and manage their creations. This field provides a quick and convenient way to assign a meaningful name to each widget.
@@ -55,11 +63,16 @@ Once users have configured their desired widget by specifying the name, selectin
 
 Clicking the "Add" button initiates the action of adding the widget to the user's dashboard. The dashboard is conveniently located in the top-right corner of the Query Creator interface. This placement ensures easy visibility and accessibility for users to view and manage their created widgets within the context of their overall dashboard layout.
 
+### More about the **Widget Preview**
+***
 For the **Widget Preview**, we decided to utilize the same component as the widgets used on our dashboard. Although the widgets are currently kept simple due to time constraints during the design phase, they still provide a visual representation of the user's created widgets.
 
 To optimize performance and ensure a responsive user experience, we opted to use generated values instead of making backend calls each time the widget is edited or when the data models change. By doing so, we alleviate the load on our program and provide users with faster insights into how their widgets will look.
 
 While the generated values may not reflect real-time data, they effectively simulate the expected output based on the specified widget configurations. This approach strikes a balance between providing users with an immediate preview and maintaining the efficiency and responsiveness of the system.
+
+### Some other design choices
+
 
 ## Component Design
 
