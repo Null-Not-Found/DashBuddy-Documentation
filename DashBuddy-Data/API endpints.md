@@ -74,4 +74,32 @@
       ]
     </td>
   </tr>
+    <tr>
+    <td>products/Get/:id</td>
+    <td>id: string (id of product)</td>
+    <td>None</td>
+    <td>
+        {
+          "id": string,
+          "name": string,
+          "brand: string",
+          "model": string,
+          "owner_id": string,
+          "fields": ProductField[]
+            {
+              "id": string,
+              "attribute": string,
+              "value": any,
+              "updated_at": Date,
+              "deleted_at": Date,
+              "created_at": Date,
+            }
+          "gtin": string,
+          "product_statuses_id": string,
+          "created_at": Date,
+          "deleted_at": Date,
+          "updated_at": Date,
+        }
+    </td>
+  </tr>
  </table>
