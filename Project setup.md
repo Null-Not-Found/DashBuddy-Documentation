@@ -11,6 +11,15 @@ In this file, I will guide you on how to locally run the programs.
 - [Gateway](#gateway)
 ***
 
+## Startup Order
+
+To set up and run the project locally, you need to follow the startup order mentioned in the guide. Here's the recommended order to start up the different components:
+
+    - DNS
+    - State microservice
+    - Data microservice
+    - Gateway
+
 ## Front-end
 
 Requirements
