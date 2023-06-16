@@ -16,7 +16,7 @@ Furthermore, we took advantage of Vue 3's Composition API. By leveraging the Com
 Overall, the combination of Vue 3, TypeScript, and the Composition API allowed us to build a front-end project that is both maintainable and scalable, while leveraging our existing knowledge and ensuring a solid foundation for future enhancements.
 
 ## User Interface
-
+***
 The user interface (UI) of our front-end project was heavily influenced by the interface of Zoho Analytics, taking into account feedback and examples provided by our stakeholders from World of Content. Our primary focus was to simplify the UI, making it easier for users to create widgets using models.
 
 ![example wire frame](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/widget%20creator%20wire%20frame.png)
@@ -72,7 +72,7 @@ To optimize performance and ensure a responsive user experience, we opted to use
 While the generated values may not reflect real-time data, they effectively simulate the expected output based on the specified widget configurations. This approach strikes a balance between providing users with an immediate preview and maintaining the efficiency and responsiveness of the system.
 
 ## Component Design
-
+***
 To ensure easy reusability and maintain a structured codebase, we organized our front-end components using a specific file structure. Each component was placed in its own file, and any components used within that component were nested in files beneath it.
 
 This file structure helped us maintain a clear separation of concerns and made it easier to locate and modify specific components when needed. It also promoted code reuse, as components could be easily imported and used in different parts of the application.
