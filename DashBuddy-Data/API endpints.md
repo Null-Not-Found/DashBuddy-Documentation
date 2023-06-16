@@ -76,7 +76,7 @@
   </tr>
     <tr>
     <td>products/Get/:id</td>
-    <td>id: string (id of product)</td>
+    <td>id: String (Id of product)</td>
     <td>None</td>
     <td>
         {
