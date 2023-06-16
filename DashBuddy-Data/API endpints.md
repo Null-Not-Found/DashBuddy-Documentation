@@ -60,7 +60,7 @@
         {
           "id": string,
           "name": string,
-          "brand: string",
+          "brand": string,
           "model": string,
           "owner_id": string,
           "fields": ProductField[]
@@ -92,7 +92,7 @@
         {
           "id": string,
           "name": string,
-          "brand: string",
+          "brand": string,
           "model": string,
           "owner_id": string,
           "fields": ProductField[]
