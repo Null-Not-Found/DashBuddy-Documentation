@@ -25,9 +25,11 @@ The **Model Explorer** serves as a navigation panel where users can access all t
 
 The **Query Creator** section empowers users to build and customize their widgets by specifying the required widget data. Users can leverage the available models from the Model Explorer to create their desired widgets and choose the appropriate graph type to visualize the data.
 
-The **Widget Preview** provides users with a live preview of their widgets, allowing them to visualize the appearance and behavior of the widgets they are creating. While the preview does not utilize real-time data, it simulates the expected output based on the set data. This approach eliminates the need for the backend to retrieve large amounts of data every time the widget is altered, resulting in a more efficient and responsive experience for users.
+The **Widget Preview** provides users with a live preview of their widgets, allowing them to visualize the appearance and behavior of the widgets they are creating. 
 
 Initially, we had planned to implement draggable functionality for the models listed in the **Model Explorer** section, as we believed it would enhance the interactive and intuitive nature of selecting models. Our intention was to allow users to simply drag and drop models from the Model Explorer directly into the Query Creator area, facilitating a seamless integration process for their widgets.
+
+We also planned a search bar at the top of the **model explorer**. This search functionality would allow users to easily and rapidly locate specific models by typing relevant keywords or terms, simplifying the process of finding the desired models for their widgets.
 
 ![draggable models](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Draggable%20models%20.png)
 
@@ -53,7 +55,11 @@ Once users have configured their desired widget by specifying the name, selectin
 
 Clicking the "Add" button initiates the action of adding the widget to the user's dashboard. The dashboard is conveniently located in the top-right corner of the Query Creator interface. This placement ensures easy visibility and accessibility for users to view and manage their created widgets within the context of their overall dashboard layout.
 
+For the **Widget Preview**, we decided to utilize the same component as the widgets used on our dashboard. Although the widgets are currently kept simple due to time constraints during the design phase, they still provide a visual representation of the user's created widgets.
 
+To optimize performance and ensure a responsive user experience, we opted to use generated values instead of making backend calls each time the widget is edited or when the data models change. By doing so, we alleviate the load on our program and provide users with faster insights into how their widgets will look.
+
+While the generated values may not reflect real-time data, they effectively simulate the expected output based on the specified widget configurations. This approach strikes a balance between providing users with an immediate preview and maintaining the efficiency and responsiveness of the system.
 
 ## Component Design
 
