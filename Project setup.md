@@ -2,14 +2,30 @@
 
 In this file, I will guide you on how to locally run the programs.
 
-## contents
-- [Startup order](#startup-order)
-    - [DNS](#dns)
-    - [State microservice](#state-microservice)
-    - [Data microservice](#data-microservice)
-    - [Gateway](#gateway) 
-## Startup order
-----------------
+## Contents
+
+- [Front-end](#front-end)
+- [DNS](#dns)
+- [State microservice](#state-microservice)
+- [Data microservice](#data-microservice)
+- [Gateway](#gateway)
+***
+
+## Front-end
+
+Requirements
+- none
+
+To start up the front-end run the following commands:
+```sql
+# install all packages
+$ npm install
+
+# Then build and start the app
+$ npm run build
+```
+***
+
 ## DNS 
 Requirements
 - none
@@ -50,7 +66,7 @@ $ npm run start
 ```
 
 ----------------
-### Data microservice
+## Data microservice
 
 Requirements
 - The DNS is running
@@ -74,7 +90,7 @@ $ npm run start
 ```
 
 ----------------
-### Gateway
+## Gateway
 Requirements
 - The DNS is running
 - Microservices are running
