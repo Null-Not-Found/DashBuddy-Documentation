@@ -55,7 +55,7 @@ $ npm run start
 Requirements
 - The DNS is running
 - A Mongo Database
-- Create .env file and add there DATABASE_URL(MongoDB) and PORT (app going to listen this port)
+- Create .env file in the root folder and add there DATABASE_URL(MongoDB) and PORT (app going to listen this port)
 
 To start up the DNS run the following commands:
 ```sql
