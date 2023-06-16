@@ -25,7 +25,9 @@ Temporary file on the structure of the State microservice endpoints.
 ## Design choices
 The choises we made when designing and working on the project.
 - [Front-end](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/front-end.md)
+- [Gateway](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/Gateway-DNS.md)
 - [Data-Microservice](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/Data-Microservice.md)
+- [State](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/State-Microservice.md)
 
 ## Database design.
 - [Database design](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-Data/Database_Design.md)
