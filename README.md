@@ -20,10 +20,15 @@ See [here](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/P
 ## Endpoints
 Temporary file on the structure of the State microservice endpoints. 
 - [State endpoints](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-State/API%20endpoints.md)
+- [Data endpoints](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-Data/API%20endpints.md)
 
 ## Design choices
 The choises we made when designing and working on the project.
 - [Front-end](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/front-end.md)
+- [Data-Microservice](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DesignChoices/Data-Microservice.md)
+
+## Database design.
+- [Database design](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/DashBuddy-Data/Database_Design.md)
 
 ## Learning outcomes
 A folder with all the learning outcomes regarding the group project.
