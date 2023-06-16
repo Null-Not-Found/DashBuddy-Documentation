@@ -71,13 +71,26 @@ To optimize performance and ensure a responsive user experience, we opted to use
 
 While the generated values may not reflect real-time data, they effectively simulate the expected output based on the specified widget configurations. This approach strikes a balance between providing users with an immediate preview and maintaining the efficiency and responsiveness of the system.
 
-### Some other design choices
-
-
 ## Component Design
 
-## Layout
+To ensure easy reusability and maintain a structured codebase, we organized our front-end components using a specific file structure. Each component was placed in its own file, and any components used within that component were nested in files beneath it.
 
-## Navigation Structure
+This file structure helped us maintain a clear separation of concerns and made it easier to locate and modify specific components when needed. It also promoted code reuse, as components could be easily imported and used in different parts of the application.
+
+Here is an example of the file structure we used for the widget creator component:
+
+![files widget creator](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/Widget%20creator%20files%20.png)
+
+In addition to the file structure for specific components, we also had a dedicated folder called "default" that housed our default components. These default components were designed to be used throughout the entire application, providing consistent styles and functionality.
+
+The "default" folder, located directly under the "components" directory, contained components such as buttons, containers, form elements, and other commonly used UI elements. These components followed a similar file structure, with each component having its own file.
+
+Here is an example of the file structure we used for the default components:
+
+![default folder](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Images/default%20folder.png)
+
+
+
+
 
 
