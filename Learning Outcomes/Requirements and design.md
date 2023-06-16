@@ -33,4 +33,4 @@ By incorporating stakeholders' real-life scenarios, use cases, and specific exam
 
 ## Design during the back-end developement
 ***
--- PLACE BACK END DESIGN STUFF HERE -- 
+[Look here for the design](#structure-diagram)
