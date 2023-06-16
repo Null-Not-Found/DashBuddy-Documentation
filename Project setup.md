@@ -4,6 +4,7 @@ In this file, I will guide you on how to locally run the programs.
 
 ## Contents
 
+- [Startup order](#startup-order)
 - [Front-end](#front-end)
 - [DNS](#dns)
 - [State microservice](#state-microservice)
