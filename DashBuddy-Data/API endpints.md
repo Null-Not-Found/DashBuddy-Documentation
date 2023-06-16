@@ -5,6 +5,7 @@
     <th>Params</th>
     <th>Request body</th>
     <th>Response</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>brands/Get</td>
@@ -24,6 +25,9 @@
         }
       ]
     </td>
+    <td>
+      Gets all brands from database.
+    </td>
   </tr>
   <tr>
     <td>/brands/Get/:id</td>
@@ -41,6 +45,9 @@
           "deleted_at": Date,
           "created_at": Date,
         }
+    </td>
+    <td>
+      Gets a single brand from database by ID
     </td>
   </tr>
   <tr>
@@ -73,6 +80,9 @@
         }
       ]
     </td>
+    <td>
+      Gets all products from database
+    </td>
   </tr>
     <tr>
     <td>products/Get/:id</td>
@@ -100,6 +110,9 @@
           "deleted_at": Date,
           "updated_at": Date,
         }
+    </td>
+    <td>
+      Gets single product from database by ID
     </td>
   </tr>
  </table>
