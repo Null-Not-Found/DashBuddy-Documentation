@@ -22,7 +22,7 @@ To set up and run the project locally, you need to follow the startup order ment
     - Gateway
     - Front-end
 
-The **Front-end** doesnt rely on other components to start, but it needs all other services to function.
+The **Front-end** doesn't rely on other components to start, but it needs all other services to function.
 
 ## Front-end
 
