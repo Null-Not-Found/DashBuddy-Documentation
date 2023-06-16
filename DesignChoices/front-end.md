@@ -71,7 +71,7 @@ To optimize performance and ensure a responsive user experience, we opted to use
 
 While the generated values may not reflect real-time data, they effectively simulate the expected output based on the specified widget configurations. This approach strikes a balance between providing users with an immediate preview and maintaining the efficiency and responsiveness of the system.
 
-## Component Design
+## Component structure
 ***
 To ensure easy reusability and maintain a structured codebase, we organized our front-end components using a specific file structure. Each component was placed in its own file, and any components used within that component were nested in files beneath it.
 
