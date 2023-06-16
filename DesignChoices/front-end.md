@@ -33,7 +33,7 @@ We decided to use split panes to divide the three main components of the widget 
 
 ### More about the **model explorer**
 ***
-Initially, we had planned to implement draggable functionality for the models listed in the **Model Explorer** section, as we believed it would enhance the interactive and intuitive nature of selecting models. Our intention was to allow users to simply drag and drop models from the Model Explorer directly into the Query Creator area, facilitating a seamless integration process for their widgets.
+Initially, we had planned to implement draggable functionality for the models listed in the **Model Explorer** section, as we believed it would enhance the interactive and intuitive nature of selecting models. Our intention was to allow users to simply drag and drop models from the Model Explorer directly into the Query Creator area, facilitating a seamless integration process for their widgets. In the end, we did manage to get some of the functionality working, although not everything worked as intended.
 
 We also planned a search bar at the top of the **model explorer**. This search functionality would allow users to easily and rapidly locate specific models by typing relevant keywords or terms, simplifying the process of finding the desired models for their widgets.
 
