@@ -54,7 +54,8 @@ $ npm run start
 
 Requirements
 - The DNS is running
-- A Mongo Database with the following URL "mongodb://localhost:4001/DashBuddy"
+- A Mongo Database
+- Create .env file and add there DATABASE_URL(MongoDB) and PORT (app going to listen this port)
 
 To start up the DNS run the following commands:
 ```sql
@@ -63,8 +64,12 @@ $ npm install
 
 # then fill the database with test data
 $ npm run seed
+# after 5-10 sec press CTRL+C to Determinate process
 
-# then build and start the app
+# then build
+$ npm run build
+    
+# start the app
 $ npm run start
 ```
 
