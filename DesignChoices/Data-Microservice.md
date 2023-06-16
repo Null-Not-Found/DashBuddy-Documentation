@@ -25,7 +25,7 @@ Initially, we attempted to use Prisma, an ORM for Node.js, but discovered that i
   - DataAccess //The layer that connects to Mongoose ODM
     - Controllers // API endpints controllers 
     - Services // acutal DAL
-  - Datamodels //Model/schemas for Mongoose 
+  - Datamodels //Models for Mongoose and GraphQL
   - Modules // Modules for datamodels that have to be resolved  
   - Resolvers // To resolve objects (ex. getting actuall object instead of only ID)
   - seeding // Fuillfill database with fake data
