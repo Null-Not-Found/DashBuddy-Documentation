@@ -33,4 +33,5 @@ By incorporating stakeholders' real-life scenarios, use cases, and specific exam
 
 ## Design during the back-end developement
 ***
+We used the microservice architecture with a gateway pattern to reduce the amount of calls the front end needs to make to the backend to get all the information it needs. It also makes it easier to secure the backend APIs from unauthorized access since only the gateway is allowed to call them.
 [Look here for the design](#structure-diagram)
