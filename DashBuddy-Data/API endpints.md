@@ -22,7 +22,7 @@
     <td>None</td>
     <td>None</td>
     <td>
-      Array of brands:
+      An array of brands:
       [
         {
           "id": string,
@@ -36,7 +36,7 @@
       ]
     </td>
     <td>
-      Gets all brands from database.
+      Gets all brands from the database.
     </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@
         }
     </td>
     <td>
-      Gets a single brand from database by ID
+      Gets a single brand from the database by ID
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
     <td>None</td>
     <td>None</td>
     <td>
-      Array of products:
+      an array of products:
       [
         {
           "id": string,
@@ -91,7 +91,7 @@
       ]
     </td>
     <td>
-      Gets all products from database
+      Gets all products from the database
     </td>
   </tr>
     <tr>
@@ -122,7 +122,7 @@
         }
     </td>
     <td>
-      Gets single product from database by ID
+      Gets a single product from the database by ID
     </td>
   </tr>
  </table>
