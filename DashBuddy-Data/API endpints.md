@@ -18,7 +18,7 @@
       Main endpoint for getting the data dynamically
     </td>
   <tr>
-    <td>brands/Get</td>
+    <td>/brands/Get</td>
     <td>None</td>
     <td>None</td>
     <td>
@@ -61,7 +61,7 @@
     </td>
   </tr>
   <tr>
-    <td>products/Get</td>
+    <td>/products/Get</td>
     <td>None</td>
     <td>None</td>
     <td>
@@ -95,7 +95,7 @@
     </td>
   </tr>
     <tr>
-    <td>products/Get/:id</td>
+    <td>/products/Get/:id</td>
     <td>id: String (Id of product)</td>
     <td>None</td>
     <td>
