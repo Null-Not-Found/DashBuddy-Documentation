@@ -8,6 +8,13 @@
     <th>Description</th>
   </tr>
   <tr>
+    <td>/GraphQL</td>
+    <td>none</td>
+    <td>GraphQL Query</td>
+    <td>
+      JSON{}
+    </td>
+  <tr>
     <td>brands/Get</td>
     <td>None</td>
     <td>None</td>
