@@ -12,7 +12,7 @@
     <td>none</td>
     <td>GraphQL Query</td>
     <td>
-      JSON{}
+      JSON object
     </td>
     <td>
       Main endpoint for getting the data dynamically
