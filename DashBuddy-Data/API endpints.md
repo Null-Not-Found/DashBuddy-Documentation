@@ -14,6 +14,9 @@
     <td>
       JSON{}
     </td>
+    <td>
+      Main endpoint for getting the data dynamically
+    </td>
   <tr>
     <td>brands/Get</td>
     <td>None</td>
